@@ -37,4 +37,4 @@ This project analyzes the financial and market performance of major technology c
 - Portfolio allocation strategy based on risk-return analysis
 
 ## Status
-🚧 In Progress – Initial data collection and financial analysis underway
+- In Progress 
