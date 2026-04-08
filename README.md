@@ -26,7 +26,7 @@ This project analyzes the financial and market performance of major technology c
 - Revenue growth and profitability analysis (operating and net margins)
 - Stock return, volatility, and correlation analysis
 - Portfolio risk-return modeling and performance comparison
-- Discounted cash flow (DCF) valuation
+- Fundamental valuation analysis
 - Visualizations of financial and market trends
 
 ## Expected Outcome
