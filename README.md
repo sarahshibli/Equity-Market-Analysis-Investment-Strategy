@@ -33,7 +33,4 @@ This project analyzes the financial and market performance of major technology c
 - Insights into growth trends, profitability, and risk profiles
 - Valuation-based assessment (undervalued, fairly valued, or overvalued)
 - Final investment recommendation (Buy, Hold, or Sell)
-- Portfolio allocation strategy based on risk-return analysis
-
-## Status
-- In Progress 
+- Portfolio allocation strategy based on risk-return analysis 
