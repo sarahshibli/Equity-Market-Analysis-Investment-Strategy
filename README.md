@@ -20,7 +20,6 @@ This project analyzes the financial and market performance of major technology c
 ## Tools & Technologies
 - Microsoft Excel (financial modeling & valuation)
 - Python (data analysis & stock performance)
-- Tableau (data visualization)
 
 ## Analysis Includes
 - Revenue growth and profitability analysis (operating and net margins)
